@@ -2,4 +2,4 @@ server:
 	port: 8099
 spring:
 	application:
-		name: serviceREST
+		name: service-prueba
